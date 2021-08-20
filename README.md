@@ -9,7 +9,7 @@ Included below are instructions describing how to build a wrapper for any HTTP b
 First, install the module via pip install.
 
 ```shell script
-pip install heva_evse
+pip install heva-evse
 ```
 
 Next, import the EVSEConnector base class for use in your project.
